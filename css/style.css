@@ -64,25 +64,17 @@ body {
   width: 1170px;
 }
 
-.list {
-  margin-top: 0;
-}
-
-p {
-  margin-top: 0;
-}
-
-.h1 {
+.heading1 {
   margin-top: 0;
   margin-bottom: 40px;
 }
 
-.h2 {
+.heading2 {
   margin-top: 0;
   margin-bottom: 10px;
 }
 
-.h3 {
+.heading3 {
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -117,6 +109,6 @@ img:not(figure img) {
 figure {
   display: inline-block;
   margin-bottom: 40px;
-  margin-top: 0;
+  margin-left: 0;
   width: 872px;
 }
