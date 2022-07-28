@@ -13,8 +13,12 @@ a {
   text-decoration: none;
 }
 
-img {
+.image {
   max-width: 100%;
+}
+
+.paragraf {
+  margin-bottom: 40px;
 }
 
 body {
@@ -79,7 +83,7 @@ body {
   margin-bottom: 10px;
 }
 
-.list li {
+.list {
   padding-left: 15px;
 }
 
@@ -97,7 +101,7 @@ body {
   margin-bottom: 40px;
 }
 
-.grey p {
+.grey .paragraf {
   width: 692px;
   margin-bottom: 10px;
 }
